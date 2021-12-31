@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\baoba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\baoba\\.nuget\\packages"
+    ]
+  }
+}
